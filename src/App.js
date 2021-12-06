@@ -25,6 +25,8 @@ function App() {
       style: 'mapbox://styles/mapbox/streets-v11',
       center: [lng, lat],
       zoom: zoom
+
+      // daamata komentari ninim
     });
 
     // Creates new directions control instance
